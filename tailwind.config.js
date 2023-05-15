@@ -9,7 +9,7 @@ export default {
       "black.dark": "rgba(0, 0, 0, 0.9)",
       "shadow-black": "rgba(0, 0, 0, 0.25)",
       "green-title": "#00C86F",
-      "orange-tilte": "#FE8C2A",
+      "orange-title": "#FE8C2A",
       "primary-blue": "#2A7AE4",
     },
   },
